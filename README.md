@@ -5,4 +5,4 @@ Currently im learning python, html, css and javascript and hopefully add some of
 
 My hobbies are playing videogames and playing around with electronics.
 
-*Work in progress (maybe adding stuff when it becomes relevant)
+*Work in progress (adding stuff when it becomes relevant)
